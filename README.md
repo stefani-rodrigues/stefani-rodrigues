@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Stefani Rodriguês! 👋</h1>
-<h3 align="center">Uma futura  Desenvolvedora de Sistemas apaixonada por criar aplicações Front-End.</h3>
+<h3 align="center">Uma futura  Desenvolvedora, apaixonada por criar aplicações Front-End.</h3>
 
 <br>
 
