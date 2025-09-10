@@ -6,8 +6,7 @@
 ## 👩‍💻 Sobre Mim
 
 - 🎓 Estou cursando **Análise e Desenvolvimento de Sistemas**.
-- 🌱 Atualmente, estou focada em aprender e aprofundar meus conhecimentos em **Java, TypeScript e JavaScript**.
-- ✨ Tenho um interesse especial em construir interfaces bonitas e funcionais com **React e Bootstrap**.
+- 🌱 Atualmente, estou focada em aprender e aprofundar meus conhecimentos em **Java, TypeScript, JavaScript, React e Bootstrap**.
 - 📫 Você pode me contatar pelo e-mail: **stefani.deoliveira19@gmail.com**
 
 <br>
