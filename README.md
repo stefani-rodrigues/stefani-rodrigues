@@ -22,17 +22,7 @@
 
 <br>
 
-
-<br>
-
-## 📊 Minhas Estatísticas do GitHub
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-
-<br>
+<br
 
 ## 🔗 Conecte-se comigo
 
